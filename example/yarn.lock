@@ -4714,13 +4714,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-static-safe-area-insets@npm:^2.2.0":
-  version: 2.2.0
-  resolution: "react-native-static-safe-area-insets@npm:2.2.0"
-  checksum: 04ceb3cabfb874dc78276c2c9f5889cf19fdb930cbcc00a8ab2aae1fb7c3eca384a1e9131a23f1bc1de2158bb81940d5175606cd7cab5371aa86049d52c82a14
-  languageName: node
-  linkType: hard
-
 "react-native-vision-camera@npm:^3.2.2":
   version: 3.2.2
   resolution: "react-native-vision-camera@npm:3.2.2"
@@ -5684,7 +5677,6 @@ __metadata:
     metro-react-native-babel-preset: ^0.77.0
     react: 18.2.0
     react-native: 0.72.3
-    react-native-static-safe-area-insets: ^2.2.0
     react-native-vision-camera: ^3.2.2
     react-native-worklets-core: ^0.2.0
     string-hash-64: ^1.0.3
